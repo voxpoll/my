@@ -1,0 +1,56 @@
+html { margin: 0;
+  padding: 0;
+}
+
+body {
+margin: 0;
+  background-color: lightGray;
+}
+
+header {
+  margin: 0;
+  background-color: #99F;
+  color: lightBlue;
+  padding: 15px 15px 0 15px
+
+}
+
+header h1 {
+  margin: 0;
+  display: inline-block;
+
+}
+
+nav ul {
+  margin: 0;
+  display: inline-block;
+}
+nav ul li {
+  padding: 5px 15px;
+  background: white;
+  color: black;
+  display: inline-block;
+  list-style-type: none;
+}
+
+.row {
+
+}
+
+
+
+.col {
+  background: lightBlue;
+  color: red;
+  border-radius: 5px;
+  padding: .5%;
+  margin: .5%;
+  width: 31%;
+  float: left;
+
+}
+footer {
+  clear: both;
+  background: red;
+  background-color: pink;
+}
